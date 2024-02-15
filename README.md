@@ -1,6 +1,6 @@
 # Tic Tac Toe
 
-##App Demo Video
+## App Demo Video
 
 https://github.com/yash-agrawal03/Tic-Tac-Toe/assets/77984203/a7aec764-ed56-46fb-8f6b-3c5e80d6a455
 
